@@ -31,4 +31,5 @@ int main (void)
            default:
                     printf("you picked a wrong numbre\n");
     }
+return;
 }
