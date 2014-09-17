@@ -8,4 +8,5 @@ int main(void)
         printf("i'll the best develepor and solver problem ever");
     }
     
+    return 0;
 }
