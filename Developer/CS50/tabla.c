@@ -17,5 +17,6 @@ int main(void)
 			triangularNumber = triangularNumber + 3;
 			printf("%i            %i\n", n, triangularNumber);
 		}
+		
 	return 0;
 }

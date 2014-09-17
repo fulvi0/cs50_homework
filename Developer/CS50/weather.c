@@ -37,7 +37,6 @@ int main (void)
 				system("cls");
 				printf("La opcion que ingreso es incorreca");
 				break;
-
 		}
 	} while (opc != 6);
 
