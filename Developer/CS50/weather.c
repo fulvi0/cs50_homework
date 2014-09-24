@@ -14,6 +14,7 @@ int main (void)
 		printf("4. Salir:\n");
 		printf("Opcion a escoger: ");
 		scanf("%d",&opc);
+		
 		switch(opc){
 			case 1:
 				system("cls");
